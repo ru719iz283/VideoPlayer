@@ -1,7 +1,7 @@
 # Introduction 
 	This is a video player developed in windows base on Qt5.7.0
-	I used the _FFMPEG_ library for connect/decode the RTSP video
-	And get the video/audio codec from _FFMPEG_ library
+	I used the **FFMPEG** library for connect/decode the RTSP video
+	And get the video/audio codec from **FFMPEG** library
 	Count the GOP by myself
 	
 	This program could play RTSP video and display the video/audio codec, GOP , and video resolution
